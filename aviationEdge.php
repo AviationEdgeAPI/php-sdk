@@ -2,7 +2,7 @@
 
     class aviationEdge
     {
-        private $key = "your_api_key";
+        private $key = "enter_api_key";
 
         private $site_url = "https://aviation-edge.com/api/public";
 
